@@ -43,6 +43,39 @@ here we are looking at Facebook, -
 
 ![image](https://github.com/user-attachments/assets/388e886a-3bee-4a5e-a95d-812501d086e8)
 
+![image](https://github.com/user-attachments/assets/66009b24-32a6-428e-9799-68cf22f32d2c)
+
+![image](https://github.com/user-attachments/assets/60532cc6-08e2-4ece-94e1-3e96b07b77fe)
+
+![image](https://github.com/user-attachments/assets/0a768c2a-2638-4913-9120-c2717ff646ed)
+
+![image](https://github.com/user-attachments/assets/798c398c-2486-4a11-961b-46336c15819c)
+
+![image](https://github.com/user-attachments/assets/0424eda6-daa5-4245-bea5-6351ea5445e4)
+
+#Whois
+When someone regesters a web site they are requriered to provide some neccessery information about them selves and their company. 
+This infomation is maintained by the registrar and a central registry by InterNIC.
+We can Query port 43
+
+![image](https://github.com/user-attachments/assets/c1570c54-de72-4658-852a-bfd7c90a1f0c)
+![image](https://github.com/user-attachments/assets/5187e987-235e-4b4b-b2ef-3bffe91c2f92)
+![image](https://github.com/user-attachments/assets/274911d1-7f48-4b16-8eb6-dd7a69d7e193)
+
+When using windows systems tou can refer to the following, - 
+http://whiis.domaintools.com
+http://ripe.net
+hrrp://whois.se
+
+#shoden
+
+
+
+
+
+
+
+
 
 
 
