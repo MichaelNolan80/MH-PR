@@ -63,9 +63,9 @@ We can Query port 43
 ![image](https://github.com/user-attachments/assets/274911d1-7f48-4b16-8eb6-dd7a69d7e193)
 
 When using windows systems tou can refer to the following, - 
-http://whiis.domaintools.com
-http://ripe.net
-hrrp://whois.se
+  - http://whois.domaintools.com
+  - http://ripe.net
+  - hrrp://whois.se
 
 #shoden
 
