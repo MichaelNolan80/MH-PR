@@ -35,7 +35,7 @@ Other Key wards include -
 filetype:sql intext:password | pass | passwd intext :username intext insert into 'users' values
 
 
-# Netcraft
+## Netcraft
 Netcraft is a website that tracks data about web servers.
 The site today is a bigger site then when this book was written, so I had to find what i needed to search the web. 
 I did find the 'Whats the Site Running' to help us understand what technologies are running the site. 
@@ -67,7 +67,15 @@ When using windows systems tou can refer to the following, -
   - http://ripe.net
   - http://whois.se
 
-#shoden
+## shodan
+Shodan is a search engine that pulls banners from websites. 
+Enabling us to see many many IOT devices on the net many of them are unsecre meaning we can get access, sometimes they have default passwords and other times they just dont have any security on them at all. 
+You have to sign up for an account to use it to start with . 
+![image](https://github.com/user-attachments/assets/cf671e6b-0fa5-49c5-9a5a-a1509b86ecb7)
+To carry on i need a paid membership which i will come back too. 
+But in a nut shell it allows users to find devices such as servers, webcams, routers, and other devices that are connected to the internet. Shodan can be used to find devices that are vulnerable to attack, or to identify devices that are misconfigured
+
+
 
 
 
