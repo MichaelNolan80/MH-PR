@@ -1,6 +1,6 @@
 # MH-PR
-Master Hacker Chapter 5 - Passive Reconnaissance
-# Google Hacking - 
+# Master Hacker Chapter 5 - Passive Reconnaissance
+## Google Hacking - 
 
   So in section we get introdused into Google Hacking which is not really hacking but a more indeath way of serching google for what is already public facing. Its Also called Google Dorking and you can find a number of them already done at www.exploit-db.com.
   filetype:sql intext:password | pass |passwd intext:username intext 
